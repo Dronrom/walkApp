@@ -1,0 +1,935 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "+%@" : {
+
+    },
+    "A chilly walk in the snowy mountains" : {
+      "comment" : "Description of the snowy mountains walk",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un paseo frío por las montañas nevadas."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बर्फीले पहाड़ों में ठंडी सैर"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Холодна прогулянка по засніжених горах"
+          }
+        }
+      }
+    },
+    "A fun river rafting experience" : {
+      "comment" : "Description of the river rafting",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una divertida experiencia de rafting en el río"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक मज़ेदार नदी राफ्टिंग अनुभव"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Веселий досвід сплаву річкою"
+          }
+        }
+      }
+    },
+    "A guided tour of the city" : {
+      "comment" : "Description of the city tour",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una visita guiada por la ciudad"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शहर का एक निर्देशित दौरा"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Екскурсія по місту"
+          }
+        }
+      }
+    },
+    "A peaceful walk through the forest" : {
+      "comment" : "Description of the forest trail walk",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un paseo tranquilo por el bosque."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जंगल में शांतिपूर्ण सैर"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Спокійна прогулянка лісом"
+          }
+        }
+      }
+    },
+    "A relaxing walk along the beach" : {
+      "comment" : "Description of the beach walk",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un relajante paseo por la playa"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "समुद्र तट पर आरामदायक सैर"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розслаблююча прогулянка по пляжу"
+          }
+        }
+      }
+    },
+    "A thrilling trek through the jungle" : {
+      "comment" : "Description of the jungle trek",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розслаблююча прогулянка по пляжу"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जंगल के माध्यम से एक रोमांचकारी ट्रेक"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An adventurous exploration of caves"
+          }
+        }
+      }
+    },
+    "Address: %@" : {
+
+    },
+    "All Walks Session" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesión de todos los paseos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सभी वॉक सत्र"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Усі прогулянки"
+          }
+        }
+      }
+    },
+    "An adventurous exploration of caves" : {
+      "comment" : "Description of the cave adventure",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una exploración aventurera de cuevas."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "एक साहसिक गुफा अन्वेषण."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Захоплююче дослідження печер"
+          }
+        }
+      }
+    },
+    "An adventurous hike up the mountain" : {
+      "comment" : "Description of the mountain hike",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una caminata aventurera por la montaña."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पहाड़ पर एक साहसिक यात्रा"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пригодницький похід на гору"
+          }
+        }
+      }
+    },
+    "An exciting safari in the desert" : {
+      "comment" : "Description of the desert safari",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Un emocionante safari en el desierto"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रेगिस्तान में एक रोमांचक सफारी"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Захоплююче сафарі в пустелі"
+          }
+        }
+      }
+    },
+    "An exploration of the rainforest" : {
+      "comment" : "Description of the rainforest exploration",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una exploración de la selva tropical"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वर्षावन का अन्वेषण"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дослідження тропічного лісу"
+          }
+        }
+      }
+    },
+    "Back" : {
+
+    },
+    "Beach Walk" : {
+      "comment" : "Name of the beach walk",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paseo por la playa"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "समुद्र तट पर सैर"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пляжна прогулянка"
+          }
+        }
+      }
+    },
+    "Buy" : {
+
+    },
+    "Card Number" : {
+
+    },
+    "Cardholder Name" : {
+
+    },
+    "Cave Adventure" : {
+      "comment" : "Name of the cave adventure",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aventura en la cueva"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "गुफा साहसिक"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Печерна пригода"
+          }
+        }
+      }
+    },
+    "City Tour" : {
+      "comment" : "Name of the city tour",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paseo por la ciudad"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "शहर का दौरा"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Екскурсія містом"
+          }
+        }
+      }
+    },
+    "Contact Details" : {
+
+    },
+    "Contact Details: %@" : {
+
+    },
+    "CVV" : {
+
+    },
+    "Date: %@" : {
+
+    },
+    "Delete All" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eliminar todos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सभी हटा दो"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити Все"
+          }
+        }
+      }
+    },
+    "Desert Safari" : {
+      "comment" : "Name of the desert safari",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Safari por el desierto"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रेगिस्तान सफ़ारी"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сафарі в пустелі"
+          }
+        }
+      }
+    },
+    "Edit" : {
+
+    },
+    "Email" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Correo electrónico"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ईमेल"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Емейл"
+          }
+        }
+      }
+    },
+    "Email: %@" : {
+
+    },
+    "Enter email address" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introducir la dirección de correo electrónico"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ईमेल पता दर्ज करें"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введіть імейл адрес"
+          }
+        }
+      }
+    },
+    "Enter password" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introducir la contraseña"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पास वर्ड दर्ज करें"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Введіть пароль"
+          }
+        }
+      }
+    },
+    "Expiration Date (MM/YY)" : {
+
+    },
+    "Favorite Walks" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paseos favoritos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पसंदीदा सैर"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Улюблені прогулянки"
+          }
+        }
+      }
+    },
+    "Favs" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Favoritos"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पसंदीदा"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вибране"
+          }
+        }
+      }
+    },
+    "Forest Trail" : {
+      "comment" : "Name of the forest trail walk",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sendero forestal"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वन पथ"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лісова стежка"
+          }
+        }
+      }
+    },
+    "Guide: %@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guía: %@"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मार्गदर्शक: %@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гід: %@"
+          }
+        }
+      }
+    },
+    "Invalid Card Details" : {
+
+    },
+    "Jungle Trek" : {
+      "comment" : "Name of the jungle trek",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminata por la jungla"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "जंगल ट्रेक"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Джунглі Трек"
+          }
+        }
+      }
+    },
+    "Log Out" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar sesión"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लॉग आउट"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вийти"
+          }
+        }
+      }
+    },
+    "Login" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acceso"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "लॉग इन करें"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ввійти "
+          }
+        }
+      }
+    },
+    "Map" : {
+
+    },
+    "Mountain Hike" : {
+      "comment" : "Name of the mountain hike",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caminata por la montaña"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पहाड़ पर चढ़ाई"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гірський похід"
+          }
+        }
+      }
+    },
+    "Name" : {
+
+    },
+    "Name: %@" : {
+
+    },
+    "Nature Walk Sessions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sesiones de caminatas por la naturaleza"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रकृति भ्रमण सत्र"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прогулянки на природі"
+          }
+        }
+      }
+    },
+    "Nature Walks" : {
+
+    },
+    "No location available" : {
+
+    },
+    "OK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Password" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contraseña"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "पासवर्ड"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пароль"
+          }
+        }
+      }
+    },
+    "Payment Information" : {
+
+    },
+    "Payment Information (optional)" : {
+
+    },
+    "Payment Information: %@" : {
+
+    },
+    "Price per person: $%@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Precio por persona: $%@"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "प्रति व्यक्ति मूल्य: $%@"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ціна за людину: $%@"
+          }
+        }
+      }
+    },
+    "Profile" : {
+
+    },
+    "Purchased List" : {
+
+    },
+    "Purchases List" : {
+
+    },
+    "Quantity: %lld" : {
+
+    },
+    "Rainforest Exploration" : {
+      "comment" : "Name of the rainforest exploration",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploración de la selva tropical"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "वर्षावन अन्वेषण"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дослідження тропічних лісів"
+          }
+        }
+      }
+    },
+    "Remember Me" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acuérdate de mí"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "मुझे याद करो"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запамʼятати мене"
+          }
+        }
+      }
+    },
+    "River Rafting" : {
+      "comment" : "Name of the river rafting",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rafting en el río"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "रिवर राफ्टिंग"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сплав по річці"
+          }
+        }
+      }
+    },
+    "Save" : {
+
+    },
+    "Sign Out" : {
+
+    },
+    "Snowy Mountains" : {
+      "comment" : "Name of the snowy mountains walk",
+      "extractionState" : "stale",
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Montañas nevadas"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "बर्फीले पहाड़"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Засніжені гори"
+          }
+        }
+      }
+    },
+    "Star Rating: %lld/5" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clasificación de estrellas: %lld/5"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "स्टार रेटिंग: %lld/5"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рейтинг зірок: %lld/5"
+          }
+        }
+      }
+    },
+    "Tax 13%%: $%.2f" : {
+
+    },
+    "Time: %@" : {
+
+    },
+    "Total Amount Paid: $%@" : {
+
+    },
+    "TOTAL: $%.2f" : {
+
+    }
+  },
+  "version" : "1.0"
+}
